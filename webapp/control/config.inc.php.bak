@@ -1,0 +1,13 @@
+<?php
+   
+	  $cfgServers['host']				= 'localhost';
+		$cfgServers['stduser']			= 'root';
+	$cfgServers['stdpass']			= '1234';
+	$cfgServers['selectdb']			= 'iss_work';
+
+//--------------------------------------
+				//--post feee
+				$total_max=600;
+				$total_min=199;
+
+?>

@@ -1,0 +1,173 @@
+<?php 
+	$lang['Home'] = 'Home';
+	$lang['About'] = 'About';
+	$lang['Project'] = 'Project';
+	$lang['Services'] = 'Services';
+	$lang['News'] = 'News & Articles';
+	$lang['allNews'] = 'ALL News & Articles';
+	$lang['Career'] = 'Career';
+	$lang['Facilities'] = 'Facilities';
+	$lang['ContactUs'] = 'Contact Us';
+        $lang['PREV_PAGE'] = 'PREV PAGE';
+        $lang['next_PAGE'] = 'NEXT PAGE';
+
+	$lang['Premium_Property'] = 'Premium Property Brand';
+	$lang['Corporate'] = 'Corporate Awards';
+	$lang['Subsidiaries'] = 'Subsidiaries';
+	$lang['Home_Care'] = 'Home Care';
+	$lang['Premium_Innovation'] = 'Premium Innovation';
+	$lang['Smart_command'] = 'Smart command centre';
+        $lang['Projectinfo'] = 'PROJECT INFORMATION';
+        $lang['concept'] = "PROJECT'S CONCEPT";
+        $lang['HOUSE_PLAN'] = "HOUSE PLAN";
+        $lang['NEARBY_PLACES'] = "NEARBY PLACES";
+        $lang['minutes'] = "minutes";
+        $lang['km'] = "km.";
+        $lang['only'] = "ONLY";
+        $lang['LOCATION'] = "LOCATION OF THE PROJECT";
+        $lang['GALLERY'] = "GALLERY";
+        $lang['FUNCTIONS'] = "FUNCTIONS IN THE HOUSE";
+        $lang['weare'] = "We are looking for...";
+        $lang['JOB_OPENING'] = "JOB OPENING";
+        $lang['Apply'] = "Apply Now";
+        $lang['position'] = "Position";
+        $lang['LOCAcareer'] = "Location";
+        $lang['Category'] = "Category";
+        $lang['property'] = "Property";
+        $lang['Job_duty'] = "Job duty";
+        $lang['quantity'] = "Quantity";
+        $lang['Join'] = "JOIN US";
+        $lang['saved'] = "Successfully saved, We will contact you via email.";
+        $lang['notsaved'] = "Can not be saved";
+        $lang['relations'] = "Let's establish relations";
+        $lang['HOWMAY'] = "HOW MAY WE ASSIST YOU ?";
+        $lang['Fill'] = "Fill out the form below to send your message to Premium Property";
+        $lang['HEADQUARTER'] = "HEADQUARTER";
+        $lang['Tambon'] = "1133 Tambon Khuan Lang, Hat Yai District, Songkhla, 90110 Thailand";
+        $lang['PHONE'] = "PHONE";
+        $lang['With_over'] = "With over 19 years of experience and hundreds of projects across Thailand. Premium is widely regarded as Thailand’s leading developer of quality houses, townhouses and condominiums. Constructing meticulously designed, well-made homes, we strive to continuously improve the quality of life of our residents.";
+        $lang['EXPLORE'] = "EXPLORE IT";
+        $lang['YEARS'] = "YEARS OF EXPERIENCE";
+        $lang['STORY'] = "PREMIUM STORY";
+        $lang['CONSTRUCTING'] = "CONSTRUCTING LIFE, NOT JUST BUILDINGS";
+        $lang['OurPlus'] = "Our Plus Property Agency, Quintessentially Concierge and Rental for the Holidays Lettings allow us to fully attend to the needs of our customers from start to finish.";
+        $lang['Ourjourney'] = "Our journey continues…";
+        $lang['GRANDIOSE'] = "GRANDIOSE LIVING";
+        $lang['architecture'] = "The project’s architecture expresses complementary features of a villa, made up of calm, quiet
+                        areas designed for family life, as well as reception areas, which are open and welcoming.";
+        
+        $lang['alertTitle'] = "Please enter Title Name";
+        $lang['alertName'] = "Please enter Name";
+        $lang['alertLastName'] = "Please enter Last Name";
+        $lang['alertcardno'] = "Please enter National ID card no.";
+        $lang['alertbirth'] = "Please enter Date of birth";
+        $lang['alertAge'] = "Please enter Age";
+        $lang['alertGender'] = "Please select Gender";
+        $lang['alertReligion'] = "Please enter Religion";
+        $lang['alertRace'] = "Please enter Race";
+        $lang['alertNationality'] = "Please enter Nationality";
+        $lang['alertWeight'] = "Please enter Weight";
+        $lang['alertHeight'] = "Please enter Height";
+        $lang['alertMaritalstatus'] = "Please select Marital status";
+        $lang['alertMilitaryService'] = "Please select Military Service";
+        $lang['alertCurrentAddress'] = "Please enter Current Address";
+        $lang['alertMobilePhoneNumber'] = "Please enter Mobile Phone Number";
+        $lang['alertEmail'] = "Please enter E-mail";
+        $lang['alertPersontonotify'] = "Please enter Person to notify in case of emergency";
+        $lang['alertPersontoPhoneNumber'] = "Please enter Mobile Phone Number";
+        $lang['alertDegree'] = "Please select Degree";
+        $lang['alertInstitution'] = "Please enter Institution";
+        $lang['alertFaculty'] = "Please enter Faculty";
+        $lang['alertMajor'] = "Please enter Major";
+        $lang['alertFromYear'] = "Please enter From Year";
+        $lang['alertToYear'] = "Please enter To Year";
+        $lang['alertGPA'] = "Please enter GPA";
+        $lang['alertLANGUAGE'] = "Please enter LANGUAGE";
+        $lang['alertListening'] = "Please select Listening";
+        $lang['alertSpeaking'] = "Please select Speaking";
+        $lang['alertReading'] = "Please select Reading";
+        $lang['alertWriting'] = "Please select Writing";
+        $lang['alertResume'] = "Please attach your Resume file";
+        $lang['alertPosition'] = "Please enter Position";
+        $lang['alertType'] = "Please select Type";
+        $lang['alertExpectedSalary'] = "Please enter Expected Salary";
+        $lang['alertStartDate'] = "Please enter Start Date";
+        
+        
+	$lang['Read_more'] = 'Read more';
+	$lang['FEM_NEWS'] = 'FEM NEWS';
+	$lang['UPCOMING'] = 'UPCOMING';
+	$lang['HotNews'] = 'Hot News';
+	$lang['More'] = 'More';
+	$lang['MOBILE_PHONE'] = 'MOBILE PHONE';
+    $lang['calendarforappointment'] = 'CALENDAR FOR APPOINTMENT';
+    $lang['CONTACT_INFO'] = 'CONTACT INFO';
+    $lang['USEFUL_LINKS'] = 'USEFUL LINKS';
+    $lang['Google_Map'] = 'Google Map';
+    $lang['INTRANET'] = 'INTRANET';
+    $lang['ROOM USAGE'] = 'ROOM USAGE';
+
+    $lang['HISTORY'] = 'HISTORY';
+    $lang['VISION'] = 'VISION';
+    $lang['MISSION'] = 'MISSION';
+
+    $lang['Returning_Member'] = 'Returning Member?';
+    $lang['ClikHereToLogin'] = 'Clik here to login';
+    $lang['Email'] = 'Email';
+    $lang['Remember_me'] = 'Remember me';
+    $lang['Lost_your_password'] = 'Lost your password?';
+    $lang['FIRST_LASTNAME'] = 'FIRST & LAST NAME';
+    $lang['PREVIOUS_name_any'] = 'PREVIOUS FIRST & LAST NAME (IF ANY)';
+    $lang['PASSPORT_NUMBER'] = 'PASSPORT NUMBER';
+    $lang['EMAIL_ADDRESS'] = 'EMAIL ADDRESS';
+    $lang['MOBILE_PHONE'] = 'MOBILE PHONE';
+    $lang['PASSWORD'] = 'PASSWORD';
+    $lang['CONFIR_PASSWORD'] = 'CONFIRM PASSWORD';
+    $lang['Ivereadandacceptthe'] = 'I’ve read and accept the';
+  
+    $lang['teamandcon'] = 'terms & conditions';
+    $lang['proceed_to_submit'] = 'PROCEED TO SUBMIT';
+    $lang['SEARCH_MEMBER'] = 'SEARCH MEMBER';
+    $lang['SEARCH_MEMBER_Here'] = 'Search member here';
+
+    $lang['Faculty_of_Environmental_Management'] = 'Faculty of Environmental Management';
+    $lang['name2'] = 'Prince of Songkla University';
+
+	$lang['RESULT_OF_SEARCH_MEMBER'] = 'RESULT OF SEARCH MEMBER';
+	$lang['WELCOME'] = 'WELCOME';
+
+	$lang['PersonalData'] = 'Personal Data';
+    $lang['PresentAddress'] = 'Present Address';
+    $lang['CurrentWorkplace'] = 'Current Workplace';
+    $lang['EducationInformation'] = 'Education Information';
+    $lang['NameSurname'] = 'Name & Surname';
+    $lang['PreviousName'] = 'Previous Name & Surname (if any)';    
+    $lang['PassportNumber'] = 'Passport Number';
+    $lang['MobilePhone'] = 'Mobile Phone';
+    $lang['Facebook'] = 'Facebook';
+    $lang['No'] = 'No.';
+    $lang['Moo'] = 'Moo.';
+    $lang['Soi'] = 'Soi';
+    $lang['Road'] = 'Road';
+    $lang['Sub_district'] = 'Sub-district';
+    $lang['District'] = 'District';
+    $lang['Province'] = 'Province';
+    $lang['PostalCode'] = 'Postal Code';
+    $lang['CompanyName'] = 'Company Name';
+    $lang['Position'] = 'Position';
+    $lang['Advisor'] = 'Advisor';
+    $lang['StudentID'] = 'Student’s ID';
+    $lang['Degree_of_education'] = 'Degree of Achieved education';
+    $lang['edit'] = 'Edit data';
+    $lang['save'] = 'Save';
+    $lang['log_out'] = 'Log Out';
+
+	$lang['enterEmail'] = "Enter your e-mail address below and we'll send you a link to reset your password.";
+	$lang['sendEmail'] = 'Send Email';
+	$lang['resetPass'] = 'Alumni reset password';
+	$lang['save'] = 'Save';
+
+	$lang['Calendar_appointment'] = 'Calendar for appointment';
+	$lang['ForStudent'] = 'For Student';
+
+?>

@@ -1,0 +1,2 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><!--<link href="style1.css" rel="stylesheet" type="text/css" /> -->
+ <p class="header2"><img src="images/icons/brown_dark/home_16x16.png" width="16" height="16" border="0" hspace='5' ><a href="index.php">หน้าแรก</a>  | <a href="changpass.php">เปลียนรหัสผ่าน</a>  | <a href="logout.php">ออกจากระบบ</a></p>

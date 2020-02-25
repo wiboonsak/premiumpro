@@ -1,0 +1,98 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}.h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #F90;
+}.h2{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #069;
+}
+.h3{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #900;
+}.kbank {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #090;
+}.tbank{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #909;
+}
+.bbank{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #009;
+}
+
+.txt-8 {
+	font-family: Tahoma;
+	color: #fff;
+	font-size: 8pt;
+	padding-right: 10px;
+}
+.txt-8-red {
+	font-family: Tahoma;
+	color: #F00;
+	font-size: 8pt;
+	padding-right: 10px;
+}
+.txt-7 {
+	font-family: Tahoma;
+	color: #360E0E;
+	font-size: 7pt;
+	padding-right: 10px;
+}
+
+.txt10-gray {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #999999;
+}
+.txt10-black {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #000000;
+}
+.txt10-brown {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #960;
+}
+A:link {
+	font-family: "Tahoma";
+	font-size: 10pt;
+	COLOR:#960;
+	TEXT-DECORATION: none
+}
+A:visited {
+	font-family: "Tahoma";
+	font-size: 10pt;
+	COLOR:#960;
+	TEXT-DECORATION: none
+} 
+A:hover {font-family: "Tahoma";	font-size: 10pt;COLOR:#F90; TEXT-DECORATION: NONE} 
+A:active {
+	font-family: "Tahoma";
+	font-size: 10pt;
+	COLOR:#960;
+	;
+	TEXT-DECORATION: none
+}
+
+a.copyRight:link{text-decoration : none; color : #ffffff;}
+a.copyRight:visited {text-decoration : none; color : #ffffff;}
+a.copyRight:hover {text-decoration : underline; color : #000000;}
+
+a.bet:link{text-decoration : none; color : #666;}
+a.bet:visited {text-decoration : none; color : #666;}
+a.bet:hover {text-decoration : underline; color : #f90;}

@@ -1,0 +1,204 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+/*body*/
+#wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#header {
+    height: 30px;
+   /* float: left;*/
+    width: 1000px;
+    background: #FCFCFC;
+	font-family: arial, sans-serif;
+	color: #2B2828;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 1.5;
+	text-shadow: 1px 0px 4px  #D4D4D4;
+	padding-top:10px;
+}
+
+#content {
+    float: left;
+    background: #FFFFFF;
+    width: 1000px;
+}
+
+#footer {
+    height: 30px;
+    width: 1000px;
+    background: #FAFCF2;
+    clear: both;
+	alignment-adjust:baseline;
+}
+
+.hr{
+	 box-shadow:0px 1px 3px #C2C2C2;
+		-webkit-border-radius: 0px;
+  		-moz-border-radius: 0px;
+		size:1px;
+		color:#DDD;
+	}
+.header1 {
+	font-family: arial, sans-serif;
+	color: #2B2828;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 1.5;
+	text-shadow: 1px 0px 4px  #D4D4D4;
+}
+.header2 {
+	font-family: arial, sans-serif;
+	color: #2B2828;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 1.5;
+	text-shadow: 1px 0px 4px  #D4D4D4;
+}
+.memberTxt{
+		font-family: arial, sans-serif;
+		color: #595252;
+		font-size: 14px;
+		line-height: 1.5;
+
+	}
+.txtDetail12{
+	font-family: arial, sans-serif;
+	font-size: 12px;
+	line-height: 1;
+	}
+.boxLogin{
+	border-radius: 1px; 
+	-moz-border-radius: 1px; 
+	-webkit-border-radius: 1px; 
+	border: 1px solid #800000;
+	width:320px;
+	display:block;
+	padding-left:100px;
+	padding-bottom:20px;
+	padding-top:20px;
+	alignment-adjust:central;
+	margin-left:200px;
+	margin-top:20px;
+	margin-bottom:20px;
+	}
+/*box menu*/
+.boxWhite{
+		  font-family: Arial;
+		  color: #6e6c6e;
+		  font-size: 13px;
+		  padding: 10px;
+		-webkit-border-radius: 0px;
+  		-moz-border-radius: 0px;
+		 border: solid #747475 1px;
+	}
+.boxWhite:hover{
+		  font-family: Arial;
+		  color: #6e6c6e;
+		  font-size: 13px;
+		  padding: 10px;
+		 box-shadow:3px 2px 2px #C2C2C2;
+		-webkit-border-radius: 0px;
+  		-moz-border-radius: 0px;
+		 border: solid #ffcccc 1px;
+	}	
+.textinputNormal {
+	border-width : 1px;
+	border-style : solid;
+	font-family : sans-serif;
+	border-color : #A5A5A5;
+	
+}
+.textinputRequire {
+	border-width : 1px;
+	border-style : solid;
+	font-family : sans-serif;
+	clear : none;
+	border-color : #FF1001;
+}
+
+/* button */
+.button1 {
+  font-family: Arial;
+  color: #6e6c6e;
+  font-size: 13px;
+  padding: 7px;
+  text-decoration: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-box-shadow: 1px 1px 2px #666666;
+  -moz-box-shadow: 1px 1px 2px #666666;
+  text-shadow: 0px 1px 1px #303030;
+  border: solid #747475 1px;
+  background: #fcfcfc;
+}
+.button1:hover {
+  background: #ebebeb;
+}
+
+.buttonLogout {
+  font-family: Arial;
+  color: #6e6c6e;
+  font-size: 13px;
+  padding: 7px;
+  text-decoration: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-box-shadow: 1px 1px 2px #666666;
+  -moz-box-shadow: 1px 1px 2px #666666;
+  text-shadow: 0px 1px 1px #303030;
+  border: solid #747475 1px;
+  background: #fa9b9b;
+}
+.buttonLogout:hover {
+  background: #ffcccc;
+}
+
+.buttonMenu {
+  font-family: Arial;
+  color: #6e6c6e;
+  font-size: 13px;
+  padding: 7px;
+  text-decoration: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-box-shadow: 1px 1px 2px #666666;
+  -moz-box-shadow: 1px 1px 2px #666666;
+  text-shadow: 0px 0px 0px #303030;
+  border: solid #747475 1px;
+ background: #fcfcfc;
+}
+.buttonMenu:hover {
+  background: #ffcccc;
+}
+.buttonDay {
+  font-family: Arial;
+  color: #6e6c6e;
+  font-size: 11px;
+  padding: 3px;
+  text-decoration: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -webkit-box-shadow: 1px 1px 2px #666666;
+  -moz-box-shadow: 1px 1px 2px #666666;
+  text-shadow: 0px 0px 0px #303030;
+  border: solid #747475 1px;
+ background: #fcfcfc;
+}
+.buttonDay:hover {
+  background: #ffcccc;
+}
+
+.error{
+	font-family:"Courier New", Courier, monospace;
+	font-size:9px;
+	color:#F00;
+	}

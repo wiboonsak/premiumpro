@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html>
+<head>
+    <title>Slider</title>
+    <link rel="stylesheet" href="../themes/default/default.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../themes/pascal/pascal.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../themes/orman/orman.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../nivo-slider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+    
+    
+    <script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="../jquery.nivo.slider.pack.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+    
+
+	<script defer type="text/javascript" src="pngfix.js"></script>
+
+</head>
+<body>
+    <div id="wrapper">
+        <div class="slider-wrapper theme-orman">
+            <!--<div class="ribbon"></div> -->
+            <div id="slider" class="nivoSlider">
+                <img src="images/A.jpg" alt=""  title="Hatyai Premium Property" />
+                <img src="images/B.jpg" alt="" title="Hatyai Premium Property" />
+                <img src="images/C.jpg" alt="" title="Hatyai Premium Property"  />
+           </div>
+            <div id="htmlcaption" class="nivo-html-caption">
+                <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
